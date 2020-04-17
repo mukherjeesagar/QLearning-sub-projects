@@ -1,5 +1,5 @@
 """
-Test a learner.  (c) 2015 Tucker Balch
+Testing the learners
 """
 
 import LinRegLearner as lrl
