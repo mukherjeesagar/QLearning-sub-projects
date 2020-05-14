@@ -1,0 +1,4 @@
+Sutton, R. S., Barto, A. G., 1998. Reinforcement learning: An introduction. Vol. 1. MIT press, Cambridge
+
+Tong Sun, Jia Wang, Jing Ni, Yu Cao, Benyuan LiuComputer Science2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)2019
+
